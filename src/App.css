@@ -1,0 +1,23 @@
+/* Ant Design overrides */
+.ant-card-head-title {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.ant-tabs-nav {
+  margin-bottom: 0 !important;
+}
+
+.ant-statistic-content {
+  font-size: 26px;
+}
+
+/* AI chat scroll area */
+.ai-chat-scroll::-webkit-scrollbar {
+  width: 4px;
+}
+
+.ai-chat-scroll::-webkit-scrollbar-thumb {
+  background: #d9d9d9;
+  border-radius: 2px;
+}
